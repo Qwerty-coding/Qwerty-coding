@@ -10,6 +10,6 @@ I’m Keshav Jain, a first-year student at IIT Jodhpur.
 - **Tools:** `Unity`, `SolidWorks`, `Git`, `OpenGL`
 - **Interests:** Computer Graphics, Game Physics, Automotive Engineering
 
-###**⚡ Beyond the Code**
+### **⚡ Beyond the Code**
 - **Chess:** always looking for a better opening.
 - **Gaming:** I play a lot of PC games 🎮, which is exactly what drove me to start building Last Light
