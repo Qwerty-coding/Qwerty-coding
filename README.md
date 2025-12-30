@@ -7,7 +7,7 @@ I’m Keshav Jain, a first-year student at IIT Jodhpur.
 
 ### 🧪 Tech Stack & Learning Path
 - **Languages:** `C` (Proficient), `C++` (Learning), `C#` (Unity), `HTML` , `Tailwind CSS`
-- **Tools:** `Unity`, `SolidWorks`, `Git`, `OpenGL`
+- **Tools:** `Unity`, `SolidWorks`, `Git`, 
 - **Interests:** Computer Graphics, Game Physics, Automotive Engineering
 
 ### **⚡ Beyond the Code**
